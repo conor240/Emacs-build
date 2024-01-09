@@ -1,0 +1,8 @@
+#+title: org-agenda
+
+* Homework
+** TODO Chapter 3 Sensing test - Physics revision <2024-01-16 Tue>
+** TODO Singalling exam questions <2024-01-11 Thu>
+** TODO EPQ - Planning review <2024-01-15 Mon>
+*** TODO EPQ - Research foundation - Gather key events, dates people and summary ready for in-depth research <2024-01-25 Thu>
+*** TODO EPQ - Read Book - 'The Art of Deception'<2024-01-31 Wed> 
